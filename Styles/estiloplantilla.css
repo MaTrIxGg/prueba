@@ -1,0 +1,86 @@
+body{
+  background: blue;font-size: 50px;
+    }
+
+p{
+  font-family: monospace;font-size: 20px;
+  }
+#div1{
+  background: yellow;
+}
+#div2{
+  background: red;
+}
+#div3{
+  background: white;
+}
+#div4{
+  background: #cccccc ;
+}
+
+
+#p1{
+  font-size:40px;
+}
+#p2{
+  font-size:small;
+}
+#p3{
+  font-size:medium;
+}
+#p4{
+  font-size:large;
+}
+#p5{
+  font-size:xx-large;
+}
+#p6{
+font-size:xx-small;
+}
+#p7{
+  font-size:2%;
+}
+#p8{
+  font-size:20%;
+}
+#p9{
+  font-size:80%;
+}
+#p10{
+  font-size:200%;
+}
+#p11{
+  font-size:300%;
+}
+#hr1{
+  width:50% ;
+}
+#hr2{
+  width:50px ;
+}
+#hr3{
+  width:75%;height: 10px;margin-left: 0pt;background-color: rgb(0,0,255);
+  }
+#hr4{width: 60%;height: 50px;margin-right: 0pt;color:rgb(0, 255, 0);border-width: 10px;background-color:rgb(255, 0, 0);
+  }
+#pcolor1{
+  color:black;font-size: xx-large;font-weight:bold;
+  }
+#pcolor2{
+  color:white;font-size: xx-large;font-weight:bold;
+  }
+#pcolor3{
+  color:red;font-size: xx-large;font-weight:bold;
+  }
+#pcolor4{
+  color:lime;font-size: xx-large;font-weight:bold;
+  }
+#pcolor5{
+  color:blue;font-size: xx-large;font-weight:bold;
+  }
+#pcolor6{
+  color:yellow;font-size: xx-large;font-weight:bold;
+  }
+#pcolor7{
+  color:fuchsia;font-size: xx-large;font-weight:bold;
+  }
